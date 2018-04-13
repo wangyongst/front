@@ -134,3 +134,4 @@ Icon
 !wrapper/*.jar
 !**/wrapper/*.jar
 
+!/vue.element.admin/build/
